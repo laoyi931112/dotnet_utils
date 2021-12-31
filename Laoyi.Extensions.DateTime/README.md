@@ -1,1 +1,0 @@
-dotnet nuget push bin/Debug/Laoyi.Extensions.DateTime.1.0.0.nupkg --api-key oy2o25dam5xxtzs2hunqgjqq4lgptkdene5q4azpnyt5e4 --source https://api.nuget.org/v3/index.json

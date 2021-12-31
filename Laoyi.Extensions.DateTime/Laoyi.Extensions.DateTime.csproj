@@ -13,7 +13,7 @@
     <Description>
     The date and time of daily work Utils collection
     </Description>
-    <RepositoryUrl>https://github.com/laoyi931112/dotnet_utils</RepositoryUrl>
+    <RepositoryUrl>https://github.com/laoyi931112/dotnet_utils/tree/main/Laoyi.Extensions.DateTime</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
